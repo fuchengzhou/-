@@ -1,0 +1,9 @@
+D:\MyWorkSpace\aspnetCore\test\Tools\bin\Debug\netcoreapp2.1\Tools.deps.json
+D:\MyWorkSpace\aspnetCore\test\Tools\bin\Debug\netcoreapp2.1\Tools.dll
+D:\MyWorkSpace\aspnetCore\test\Tools\bin\Debug\netcoreapp2.1\Tools.pdb
+D:\MyWorkSpace\aspnetCore\test\Tools\obj\Debug\netcoreapp2.1\Tools.csprojAssemblyReference.cache
+D:\MyWorkSpace\aspnetCore\test\Tools\obj\Debug\netcoreapp2.1\Tools.csproj.CoreCompileInputs.cache
+D:\MyWorkSpace\aspnetCore\test\Tools\obj\Debug\netcoreapp2.1\Tools.AssemblyInfoInputs.cache
+D:\MyWorkSpace\aspnetCore\test\Tools\obj\Debug\netcoreapp2.1\Tools.AssemblyInfo.cs
+D:\MyWorkSpace\aspnetCore\test\Tools\obj\Debug\netcoreapp2.1\Tools.dll
+D:\MyWorkSpace\aspnetCore\test\Tools\obj\Debug\netcoreapp2.1\Tools.pdb
